@@ -6,4 +6,4 @@ https://adventofcode.com/2024
 5:
 6: **
 7:
-8: *
+8: **
