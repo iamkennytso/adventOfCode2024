@@ -1,4 +1,6 @@
 https://adventofcode.com/2024
+
+```
 1: **
 2: **
 3: **
@@ -7,3 +9,5 @@ https://adventofcode.com/2024
 6: **
 7:
 8: **
+9: *
+```
