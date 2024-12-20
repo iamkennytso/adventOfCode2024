@@ -12,4 +12,5 @@ https://adventofcode.com/2024
 09: *
 10: **
 11: *
+12: *
 ```
